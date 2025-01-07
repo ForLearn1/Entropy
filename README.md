@@ -1,2 +1,2 @@
-# fall
+# Fall
 Polynomial Emulator
